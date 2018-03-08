@@ -7,7 +7,7 @@ template for start smart contracts using Ethereum Solidity, Truffle, zeppelin-so
 #### Clone
 
 ```sh
-git clone https://github.com/SolidityKorea/contract-template.git
+git clone https://github.com/solidity-korea/contract-template.git
 cd contract-template
 ```
 
